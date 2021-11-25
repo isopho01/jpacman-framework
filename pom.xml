@@ -311,6 +311,7 @@
 				</dependencies>
 				<configuration>
 					<trimStackTrace>false</trimStackTrace>
+					<testFailureIgnore>true</testFailureIgnore>
 				</configuration>
 			</plugin>
 
